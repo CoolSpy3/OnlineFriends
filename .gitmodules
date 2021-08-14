@@ -1,0 +1,6 @@
+[submodule "CoolSpyLib"]
+	path = CoolSpyLib
+	url = https://github.com/CoolSpy3/CoolSpyLibMC
+[submodule "HypixelAPI"]
+	path = HypixelAPI
+	url = https://github.com/CoolSpy3/HypixelAPI
